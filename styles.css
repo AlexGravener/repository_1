@@ -1,3 +1,9 @@
 body {
-    background-color: cadetblue;
+    background-color: rgba(15, 129, 0, 0.788);
+    color: rgb(197, 150, 30);
+
+}
+
+li {
+    background-color: rgba(152, 1, 182, 0.637);
 }
