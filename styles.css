@@ -1,9 +1,18 @@
 body {
-    background-color: rgba(199, 46, 0, 0.788);
-    color: rgb(228, 175, 41);
+    background-color: rgba(43, 143, 23, 0.788);
+    color: rgb(238, 213, 86);
 
 }
 
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 li {
-    background-color: rgba(1, 182, 25, 0.637);
+    background-color: rgba(240, 145, 227, 0.877);
+}
+
+footer{
+    color: rgba(2, 112, 17, 0.637);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
